@@ -1,0 +1,22 @@
+Pertemuan 1:
+Pada praktikum pertama, saya mempelajari tentang konsep dasar Thread dan Multi-Thread di Python. Thread merupakan unit terkecil dalam proses eksekusi sebuah program. Umumnya, setiap program memiliki setidaknya satu main thread yang menjalankan logika utama aplikasi.
+Selama praktikum ini, saya tidak mengalami kesulitan dalam menjalankan maupun menyelesaikan tugas-tugas yang diberikan karena bimbingan dari kakak-kakak asisten sangat jelas dan mudah dipahami.
+
+Pertemuan 2:
+Pada pertemuan kedua, materi yang dipelajari adalah mengenai konsep dasar API dan JSON. API (Application Programming Interface) merupakan antarmuka yang memungkinkan dua sistem atau aplikasi berbeda untuk saling berkomunikasi dan bertukar data.
+Saya dapat menyelesaikan tugas-tugas pada praktikum ini dengan lancar, seperti halnya pada pertemuan sebelumnya, karena penjelasan dan arahan dari kakak-kakak asisten sangat membantu.
+
+Pertemuan 3:
+Pada praktikum ketiga, saya mempelajari mengenai pengantar Framework dalam Python. Framework adalah sebuah kerangka kerja yang menyediakan dasar dan alat bantu bagi pengembang untuk membangun aplikasi dengan cara yang lebih terstruktur dan efisien.
+Tugas-tugas dalam praktikum ini juga dapat saya selesaikan dengan baik tanpa kendala berarti, berkat penjelasan yang sistematis dari kakak-kakak asisten.
+
+Pertemuan 4:
+Pada pertemuan keempat, topik yang dipelajari adalah pengenalan dan pembuatan aplikasi menggunakan Flask. Flask sendiri merupakan framework web ringan berbasis Python, yang dibangun menggunakan Werkzeug (WSGI toolkit) dan Jinja2 (template engine).
+Selama praktikum, saya tidak menemui hambatan berarti dalam mengerjakan tugas-tugas karena bantuan dari kakak-kakak asisten sangat memudahkan saya dalam memahami materi.
+
+Pertemuan 5:
+Di pertemuan kelima, saya mempelajari tentang pembuatan API endpoint menggunakan Flask. API dalam konteks Python merupakan sarana komunikasi antara sistem dengan menggunakan pola request dan response.
+Seperti pada pertemuan sebelumnya, saya dapat menyelesaikan semua tugas dengan baik dan lancar berkat bimbingan dari kakak-kakak asisten yang sangat jelas dan terarah.
+
+Pertemuan 6:
+Pada pertemuan ini,saya mempelajari PyQt, library Python untuk framework Qt yang mendukung banyak platform. Tugas selesai dengan mudah berkat bimbingan yang baik.
